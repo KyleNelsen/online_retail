@@ -6,12 +6,11 @@ SQL and Tableau project where I take a dataset of orders from an online retailer
 
 Files
 ------
-SQLQuery1.sql - sql queries
+tables - folder of tables I queried and used in the dashboard
 
-sales_by_month.csv - table with revenue per month
+SQLQuery.sql - sql queries
 
-top_20_most_purchased_items.csv - table with top 20 most sold items during period
+dashboard.png - picture of dashboard
 
-total_number_of_sales_12_09_2011_12_01_2020.csv - table with total number of sales during period
 
-total_sales_12_09_2011_12_01_2020.csv - table with total revenue during period
+![Dashboard](https://github.com/KyleNelsen/online_retail/blob/main/dashboard.png)
